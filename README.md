@@ -1,1 +1,1 @@
-# Otimiza-o-de-Dados-e-Algoritmos-Num-ricos
+# Otimizacao-de-Dados-e-Algoritmos-Numericos
